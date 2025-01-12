@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.a5a525c0.css",
-    "main.js": "/home/static/js/main.780b42de.js",
+    "main.js": "/home/static/js/main.aebd7a65.js",
     "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
     "static/media/kenishap.jpg": "/home/static/media/kenishap.2be4165fe35d43bd4c9b.jpg",
     "static/media/resume.pdf": "/home/static/media/resume.5252d751b753afbc236f.pdf",
@@ -9,11 +9,11 @@
     "static/media/intelexlogo.png": "/home/static/media/intelexlogo.95cb63db5bbded9a0e5c.png",
     "index.html": "/home/index.html",
     "main.a5a525c0.css.map": "/home/static/css/main.a5a525c0.css.map",
-    "main.780b42de.js.map": "/home/static/js/main.780b42de.js.map",
+    "main.aebd7a65.js.map": "/home/static/js/main.aebd7a65.js.map",
     "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5a525c0.css",
-    "static/js/main.780b42de.js"
+    "static/js/main.aebd7a65.js"
   ]
 }
